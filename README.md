@@ -2,8 +2,8 @@
 
 This repository contains a python3 command-line application that converts
 a single blog post written for the [Hugo](https://gohugo.io/) static site
-builder into a Medium blog article.  The code uses the [Medium SDK for Python]
-(https://github.com/Medium/medium-sdk-python).
+builder into a Medium blog article.  The code uses the
+[Medium SDK for Python](https://github.com/Medium/medium-sdk-python).
 
 ## Installation
 
